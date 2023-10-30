@@ -22,8 +22,7 @@
 ### 安裝 NCHU-Captcha-Disabler
 
 1. 複製這個連結：  
-https://raw.githubusercontent.com/Dinlon5566/NCHU-Captcha-Disabler/main/NCHU-Captcha-Disabler.js
-
+https://gist.githubusercontent.com/Dinlon5566/4d68067e3b747d56d004990a42eafaa6/raw/c23b2da3763b22b242a2210c280c1270ce599a93/NCHU-Captcha-Disabler.js  
 2. 進入 Tampermonkey，點擊 [匯入與匯出工具](extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=utils) 。
 
 3. 在「自 URL 安裝」欄位貼上連結，點擊安裝。
