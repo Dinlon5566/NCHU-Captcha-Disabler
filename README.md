@@ -4,6 +4,8 @@
 
 基於漏洞 [ZD-2023-00422](https://zeroday.hitcon.org/vulnerability/ZD-2023-00422) 發現之驗證碼弱點，禁用中興大學單一登入頁面上的驗證碼。
 
+![img1](./img1.png)
+
 ## 安裝和使用
 
 ### 安裝油猴
@@ -27,7 +29,9 @@ https://gist.githubusercontent.com/Dinlon5566/4d68067e3b747d56d004990a42eafaa6/r
 
 3. 在「自 URL 安裝」欄位貼上連結，點擊安裝。
 
-4. 安裝完成後，您應該能在 Tampermonkey 的儀表板（Dashboard）看到 `NCHU-Captcha-Disabler`代表完成。腳本會自動執行。
+4. 安裝完成後，您應該能在 Tampermonkey 的儀表板（Dashboard）看到 `NCHU-Captcha-Disabler`。
+
+5. 自網址列貼上 chrome://extensions/ 後開啟右上方 **開發人員模式** ( Edge 在右方)。
 
 ### 使用
 
